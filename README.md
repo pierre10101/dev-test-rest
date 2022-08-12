@@ -1,6 +1,6 @@
 # MVP Project
 
-This is an answer to CLick Here Digital's request to demonstrate knowledge and skills using technologies used at Click Here Digital. The assumption was to create a proof of concept so unit tests were written to demonstrate rather than to fully test the application. The tasks.controller follows REST protocol but, by intention, the signup and signin in accounts does not. The tests can be optimized so that certain data are not duplicated but since it is a test I left it out. Rather focused on getting the task done with the time I have available.
+This is an answer to Click Here Digital's request to demonstrate knowledge and skills using technologies used at Click Here Digital. The assumption was to create a proof of concept so unit tests were written to demonstrate rather than to fully test the application. The tasks.controller follows REST protocol but, by intention, the signup and signin in accounts does not. The tests can be optimized so that certain data are not duplicated but since it is a test I left it out. Rather focused on getting the task done with the time I have available.
 
 ## Requirements
 
